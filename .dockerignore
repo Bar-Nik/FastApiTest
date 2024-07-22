@@ -1,1 +1,5 @@
 venv
+Dockerfile
+.idea
+.git
+tasks.db
